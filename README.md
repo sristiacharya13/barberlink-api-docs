@@ -6,7 +6,7 @@ This folder documents the REST API for the BarberLink website.
 
 | File | Covers |
 |---|---|
-| [01-barbar-api.md](./01-barbar-api.md) | Barbar registration, profile, QR code, location |
+| [01-barbar-api.md](./01 barbar api.md) | Barbar registration, profile, QR code, location |
 
 ## Base URL
 
